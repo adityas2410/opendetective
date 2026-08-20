@@ -1,0 +1,1 @@
+"""Investigation knowledge-graph access."""

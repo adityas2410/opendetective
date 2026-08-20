@@ -1,2 +1,3 @@
-# opendetective
-Investigative AI system that reasons across evidence to solve criminal, corporate and OSINT investigations.
+# OpenDetective
+
+Open-source investigative AI system for criminal, corporate, fraud, and OSINT investigations.
